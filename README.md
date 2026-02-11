@@ -20,7 +20,7 @@ Thanks to everyone who has contributed to this theme:
 
 - Nate Wright, @NateWr ([PKP](https://pkp.sfu.ca))
 - Roger Gillis, @rcgillis ([PKP](https://pkp.sfu.ca)/[Dalhousie](http://www.dal.ca/))
-- Sophy Ouch, @sophyo ([Érudit](http://www.erudit.org/en/))
+- Sophy, @sophyo ([Érudit](http://www.erudit.org/en/))
 - Michael Felczak, @mfelczak ([PKP](https://pkp.sfu.ca))
 - Marc Behiels ([WebKitchen](http://webkitchen.ca/))
 - Ted Roeder ([Cold Spring Harbor Laboratory](http://www.cshl.edu/))
